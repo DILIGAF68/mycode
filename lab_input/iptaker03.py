@@ -17,4 +17,6 @@ def main():
 
     print("Your vendor name is: ", user_input2)
 
+    print(" IP address is ", user_input, "Vendor is: ", user_input2)
+
 main()
